@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+}
+h1 {
+  margin: auto;
+}
+h2 {
+  margin: auto;
+  font-weight: normal;
+}
+div {
+  border: 4px solid powderblue;
+  width: 200%;
+  margin: auto;
+  
+}
